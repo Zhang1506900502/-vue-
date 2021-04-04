@@ -1,5 +1,9 @@
 <template>
-  <div class="home">1111</div>
+  <div class="home">
+    1111
+
+    <div>git 第二次提交哦</div>
+  </div>
 </template>
 
 <script>
